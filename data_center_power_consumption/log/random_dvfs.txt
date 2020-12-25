@@ -1,0 +1,587 @@
+Initialising...
+Starting CloudSim version 3.0
+Broker is starting...
+Datacenter is starting...
+Entities started.
+0.0: Broker: Cloud Resource List received with 1 resource(s)
+0.0: Broker: Trying to Create VM #0 in Datacenter
+0,00: VM #0 has been allocated to the host #1
+0.01: Broker: VM #0 has been created in Datacenter #3, Host #1
+0.01: Broker: Sending cloudlet 0 to VM #0
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 3600,01:
+
+3600,01: [Host #0] utilization is 0,00%
+
+3600,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 601,34, was requested 601,34 out of total 2500,00 (24,05%)
+3600,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 601,34.
+3600,01: [Host #1] utilization is 11,30%
+
+Energy consumption for the last time frame from 0,00 to 3600,01:
+
+3600,01: [Host #0] utilization at 0,00 was 0,00%, now is 0,00%
+3600,01: [Host #0] energy is 0,00 W*sec
+
+3600,01: [Host #1] utilization at 0,00 was 0,00%, now is 11,30%
+3600,01: [Host #1] energy is 0,00 W*sec
+
+3600,01: Data center's energy is 0,00 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 7200,01:
+
+7200,01: [Host #0] utilization is 0,00%
+
+7200,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1593,54, was requested 1593,54 out of total 2500,00 (63,74%)
+7200,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1593,54.
+7200,01: [Host #1] utilization is 29,95%
+
+Energy consumption for the last time frame from 3600,01 to 7200,01:
+
+7200,01: [Host #0] utilization at 3600,01 was 0,00%, now is 0,00%
+7200,01: [Host #0] energy is 0,00 W*sec
+
+7200,01: [Host #1] utilization at 3600,01 was 11,30%, now is 29,95%
+7200,01: [Host #1] energy is 364505,21 W*sec
+
+7200,01: Data center's energy is 364505,21 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 10800,01:
+
+10800,01: [Host #0] utilization is 0,00%
+
+10800,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1376,09, was requested 1376,09 out of total 2500,00 (55,04%)
+10800,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1376,09.
+10800,01: [Host #1] utilization is 25,87%
+
+Energy consumption for the last time frame from 7200,01 to 10800,01:
+
+10800,01: [Host #0] utilization at 7200,01 was 0,00%, now is 0,00%
+10800,01: [Host #0] energy is 0,00 W*sec
+
+10800,01: [Host #1] utilization at 7200,01 was 29,95%, now is 25,87%
+10800,01: [Host #1] energy is 374990,56 W*sec
+
+10800,01: Data center's energy is 374990,56 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 14400,01:
+
+14400,01: [Host #0] utilization is 0,00%
+
+14400,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1493,86, was requested 1493,86 out of total 2500,00 (59,75%)
+14400,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1493,86.
+14400,01: [Host #1] utilization is 28,08%
+
+Energy consumption for the last time frame from 10800,01 to 14400,01:
+
+14400,01: [Host #0] utilization at 10800,01 was 0,00%, now is 0,00%
+14400,01: [Host #0] energy is 0,00 W*sec
+
+14400,01: [Host #1] utilization at 10800,01 was 25,87%, now is 28,08%
+14400,01: [Host #1] energy is 373641,51 W*sec
+
+14400,01: Data center's energy is 373641,51 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 18000,01:
+
+18000,01: [Host #0] utilization is 0,00%
+
+18000,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 833,05, was requested 833,05 out of total 2500,00 (33,32%)
+18000,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 833,05.
+18000,01: [Host #1] utilization is 15,66%
+
+Energy consumption for the last time frame from 14400,01 to 18000,01:
+
+18000,01: [Host #0] utilization at 14400,01 was 0,00%, now is 0,00%
+18000,01: [Host #0] energy is 0,00 W*sec
+
+18000,01: [Host #1] utilization at 14400,01 was 28,08%, now is 15,66%
+18000,01: [Host #1] energy is 366292,00 W*sec
+
+18000,01: Data center's energy is 366292,00 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 21600,01:
+
+21600,01: [Host #0] utilization is 0,00%
+
+21600,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 962,97, was requested 962,97 out of total 2500,00 (38,52%)
+21600,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 962,97.
+21600,01: [Host #1] utilization is 18,10%
+
+Energy consumption for the last time frame from 18000,01 to 21600,01:
+
+21600,01: [Host #0] utilization at 18000,01 was 0,00%, now is 0,00%
+21600,01: [Host #0] energy is 0,00 W*sec
+
+21600,01: [Host #1] utilization at 18000,01 was 15,66%, now is 18,10%
+21600,01: [Host #1] energy is 359107,02 W*sec
+
+21600,01: Data center's energy is 359107,02 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 25200,01:
+
+25200,01: [Host #0] utilization is 0,00%
+
+25200,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 2462,10, was requested 2462,10 out of total 2500,00 (98,48%)
+25200,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 2462,10.
+25200,01: [Host #1] utilization is 46,28%
+
+Energy consumption for the last time frame from 21600,01 to 25200,01:
+
+25200,01: [Host #0] utilization at 21600,01 was 0,00%, now is 0,00%
+25200,01: [Host #0] energy is 0,00 W*sec
+
+25200,01: [Host #1] utilization at 21600,01 was 18,10%, now is 46,28%
+25200,01: [Host #1] energy is 385215,28 W*sec
+
+25200,01: Data center's energy is 385215,28 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 28800,01:
+
+28800,01: [Host #0] utilization is 0,00%
+
+28800,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 2197,96, was requested 2197,96 out of total 2500,00 (87,92%)
+28800,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 2197,96.
+28800,01: [Host #1] utilization is 41,31%
+
+Energy consumption for the last time frame from 25200,01 to 28800,01:
+
+28800,01: [Host #0] utilization at 25200,01 was 0,00%, now is 0,00%
+28800,01: [Host #0] energy is 0,00 W*sec
+
+28800,01: [Host #1] utilization at 25200,01 was 46,28%, now is 41,31%
+28800,01: [Host #1] energy is 404202,72 W*sec
+
+28800,01: Data center's energy is 404202,72 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 32400,01:
+
+32400,01: [Host #0] utilization is 0,00%
+
+32400,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 2353,12, was requested 2353,12 out of total 2500,00 (94,12%)
+32400,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 2353,12.
+32400,01: [Host #1] utilization is 44,23%
+
+Energy consumption for the last time frame from 28800,01 to 32400,01:
+
+32400,01: [Host #0] utilization at 28800,01 was 0,00%, now is 0,00%
+32400,01: [Host #0] energy is 0,00 W*sec
+
+32400,01: [Host #1] utilization at 28800,01 was 41,31%, now is 44,23%
+32400,01: [Host #1] energy is 401990,33 W*sec
+
+32400,01: Data center's energy is 401990,33 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 36000,01:
+
+36000,01: [Host #0] utilization is 0,00%
+
+36000,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 687,38, was requested 687,38 out of total 2500,00 (27,50%)
+36000,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 687,38.
+36000,01: [Host #1] utilization is 12,92%
+
+Energy consumption for the last time frame from 32400,01 to 36000,01:
+
+36000,01: [Host #0] utilization at 32400,01 was 0,00%, now is 0,00%
+36000,01: [Host #0] energy is 0,00 W*sec
+
+36000,01: [Host #1] utilization at 32400,01 was 44,23%, now is 12,92%
+36000,01: [Host #1] energy is 379273,12 W*sec
+
+36000,01: Data center's energy is 379273,12 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 39600,01:
+
+39600,01: [Host #0] utilization is 0,00%
+
+39600,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 322,24, was requested 322,24 out of total 2500,00 (12,89%)
+39600,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 322,24.
+39600,01: [Host #1] utilization is 6,06%
+
+Energy consumption for the last time frame from 36000,01 to 39600,01:
+
+39600,01: [Host #0] utilization at 36000,01 was 0,00%, now is 0,00%
+39600,01: [Host #0] energy is 0,00 W*sec
+
+39600,01: [Host #1] utilization at 36000,01 was 12,92%, now is 6,06%
+39600,01: [Host #1] energy is 348960,93 W*sec
+
+39600,01: Data center's energy is 348960,93 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 43200,01:
+
+43200,01: [Host #0] utilization is 0,00%
+
+43200,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 366,50, was requested 366,50 out of total 2500,00 (14,66%)
+43200,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 366,50.
+43200,01: [Host #1] utilization is 6,89%
+
+Energy consumption for the last time frame from 39600,01 to 43200,01:
+
+43200,01: [Host #0] utilization at 39600,01 was 0,00%, now is 0,00%
+43200,01: [Host #0] energy is 0,00 W*sec
+
+43200,01: [Host #1] utilization at 39600,01 was 6,06%, now is 6,89%
+43200,01: [Host #1] energy is 345010,15 W*sec
+
+43200,01: Data center's energy is 345010,15 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 46800,01:
+
+46800,01: [Host #0] utilization is 0,00%
+
+46800,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 58,10, was requested 58,10 out of total 2500,00 (2,32%)
+46800,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 58,10.
+46800,01: [Host #1] utilization is 1,09%
+
+Energy consumption for the last time frame from 43200,01 to 46800,01:
+
+46800,01: [Host #0] utilization at 43200,01 was 0,00%, now is 0,00%
+46800,01: [Host #0] energy is 0,00 W*sec
+
+46800,01: [Host #1] utilization at 43200,01 was 6,89%, now is 1,09%
+46800,01: [Host #1] energy is 342060,83 W*sec
+
+46800,01: Data center's energy is 342060,83 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 50400,01:
+
+50400,01: [Host #0] utilization is 0,00%
+
+50400,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1366,85, was requested 1366,85 out of total 2500,00 (54,67%)
+50400,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1366,85.
+50400,01: [Host #1] utilization is 25,69%
+
+Energy consumption for the last time frame from 46800,01 to 50400,01:
+
+50400,01: [Host #0] utilization at 46800,01 was 0,00%, now is 0,00%
+50400,01: [Host #0] energy is 0,00 W*sec
+
+50400,01: [Host #1] utilization at 46800,01 was 1,09%, now is 25,69%
+50400,01: [Host #1] energy is 355207,37 W*sec
+
+50400,01: Data center's energy is 355207,37 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 54000,01:
+
+54000,01: [Host #0] utilization is 0,00%
+
+54000,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 2411,22, was requested 2411,22 out of total 2500,00 (96,45%)
+54000,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 2411,22.
+54000,01: [Host #1] utilization is 45,32%
+
+Energy consumption for the last time frame from 50400,01 to 54000,01:
+
+54000,01: [Host #0] utilization at 50400,01 was 0,00%, now is 0,00%
+54000,01: [Host #0] energy is 0,00 W*sec
+
+54000,01: [Host #1] utilization at 50400,01 was 25,69%, now is 45,32%
+54000,01: [Host #1] energy is 389648,23 W*sec
+
+54000,01: Data center's energy is 389648,23 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 57600,01:
+
+57600,01: [Host #0] utilization is 0,00%
+
+57600,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 261,23, was requested 261,23 out of total 2500,00 (10,45%)
+57600,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 261,23.
+57600,01: [Host #1] utilization is 4,91%
+
+Energy consumption for the last time frame from 54000,01 to 57600,01:
+
+57600,01: [Host #0] utilization at 54000,01 was 0,00%, now is 0,00%
+57600,01: [Host #0] energy is 0,00 W*sec
+
+57600,01: [Host #1] utilization at 54000,01 was 45,32%, now is 4,91%
+57600,01: [Host #1] energy is 375326,23 W*sec
+
+57600,01: Data center's energy is 375326,23 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 61200,01:
+
+61200,01: [Host #0] utilization is 0,00%
+
+61200,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1562,87, was requested 1562,87 out of total 2500,00 (62,51%)
+61200,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1562,87.
+61200,01: [Host #1] utilization is 29,38%
+
+Energy consumption for the last time frame from 57600,01 to 61200,01:
+
+61200,01: [Host #0] utilization at 57600,01 was 0,00%, now is 0,00%
+61200,01: [Host #0] energy is 0,00 W*sec
+
+61200,01: [Host #1] utilization at 57600,01 was 4,91%, now is 29,38%
+61200,01: [Host #1] energy is 360128,27 W*sec
+
+61200,01: Data center's energy is 360128,27 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 64800,01:
+
+64800,01: [Host #0] utilization is 0,00%
+
+64800,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1026,99, was requested 1026,99 out of total 2500,00 (41,08%)
+64800,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1026,99.
+64800,01: [Host #1] utilization is 19,30%
+
+Energy consumption for the last time frame from 61200,01 to 64800,01:
+
+64800,01: [Host #0] utilization at 61200,01 was 0,00%, now is 0,00%
+64800,01: [Host #0] energy is 0,00 W*sec
+
+64800,01: [Host #1] utilization at 61200,01 was 29,38%, now is 19,30%
+64800,01: [Host #1] energy is 369850,69 W*sec
+
+64800,01: Data center's energy is 369850,69 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 68400,01:
+
+68400,01: [Host #0] utilization is 0,00%
+
+68400,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1940,78, was requested 1940,78 out of total 2500,00 (77,63%)
+68400,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1940,78.
+68400,01: [Host #1] utilization is 36,48%
+
+Energy consumption for the last time frame from 64800,01 to 68400,01:
+
+68400,01: [Host #0] utilization at 64800,01 was 0,00%, now is 0,00%
+68400,01: [Host #0] energy is 0,00 W*sec
+
+68400,01: [Host #1] utilization at 64800,01 was 19,30%, now is 36,48%
+68400,01: [Host #1] energy is 376131,88 W*sec
+
+68400,01: Data center's energy is 376131,88 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 72000,01:
+
+72000,01: [Host #0] utilization is 0,00%
+
+72000,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 2476,81, was requested 2476,81 out of total 2500,00 (99,07%)
+72000,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 2476,81.
+72000,01: [Host #1] utilization is 46,56%
+
+Energy consumption for the last time frame from 68400,01 to 72000,01:
+
+72000,01: [Host #0] utilization at 68400,01 was 0,00%, now is 0,00%
+72000,01: [Host #0] energy is 0,00 W*sec
+
+72000,01: [Host #1] utilization at 68400,01 was 36,48%, now is 46,56%
+72000,01: [Host #1] energy is 399913,80 W*sec
+
+72000,01: Data center's energy is 399913,80 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 75600,01:
+
+75600,01: [Host #0] utilization is 0,00%
+
+75600,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1218,08, was requested 1218,08 out of total 2500,00 (48,72%)
+75600,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1218,08.
+75600,01: [Host #1] utilization is 22,90%
+
+Energy consumption for the last time frame from 72000,01 to 75600,01:
+
+75600,01: [Host #0] utilization at 72000,01 was 0,00%, now is 0,00%
+75600,01: [Host #0] energy is 0,00 W*sec
+
+75600,01: [Host #1] utilization at 72000,01 was 46,56%, now is 22,90%
+75600,01: [Host #1] energy is 388966,37 W*sec
+
+75600,01: Data center's energy is 388966,37 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 79200,01:
+
+79200,01: [Host #0] utilization is 0,00%
+
+79200,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1865,60, was requested 1865,60 out of total 2500,00 (74,62%)
+79200,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1865,60.
+79200,01: [Host #1] utilization is 35,07%
+
+Energy consumption for the last time frame from 75600,01 to 79200,01:
+
+79200,01: [Host #0] utilization at 75600,01 was 0,00%, now is 0,00%
+79200,01: [Host #0] energy is 0,00 W*sec
+
+79200,01: [Host #1] utilization at 75600,01 was 22,90%, now is 35,07%
+79200,01: [Host #1] energy is 377446,28 W*sec
+
+79200,01: Data center's energy is 377446,28 W*sec
+
+
+
+
+--------------------------------------------------------------
+
+
+New resource usage for the time frame starting at 82800,01:
+
+82800,01: [Host #0] utilization is 0,00%
+
+82800,01: [Host #1] Total allocated MIPS for VM #0 (Host #1) is 1832,88, was requested 1832,88 out of total 2500,00 (73,32%)
+82800,01: [Host #1] MIPS for VM #0 by PEs (2 * 2660.0). PE #0: 1832,88.
+82800,01: [Host #1] utilization is 34,45%
+
+Energy consumption for the last time frame from 79200,01 to 82800,01:
+
+82800,01: [Host #0] utilization at 79200,01 was 0,00%, now is 0,00%
+82800,01: [Host #0] energy is 0,00 W*sec
+
+82800,01: [Host #1] utilization at 79200,01 was 35,07%, now is 34,45%
+82800,01: [Host #1] energy is 386568,33 W*sec
+
+82800,01: Data center's energy is 386568,33 W*sec
+
+
+Simulation: Reached termination time.
+CloudInformationService: Notify all CloudSim entities for shutting down.
+Broker is shutting down...
+Datacenter is shutting down...
+Simulation completed.
+Received 0 cloudlets
+Simulation completed.
+
+Experiment name: random_dvfs
+Number of hosts: 2
+Number of VMs: 1
+Total simulation time: 86400,00 sec
+Energy consumption: 2,28 kWh
+Number of VM migrations: 0
+SLA: 0,00000%
+SLA perf degradation due to migration: 0,00%
+SLA time per active host: 0,00%
+Overall SLA violation: 0,00%
+Average SLA violation: 0,00%
+Number of host shutdowns: 1
+Mean time before a host shutdown: 3600,01 sec
+StDev time before a host shutdown: NaN sec
+Mean time before a VM migration: NaN sec
+StDev time before a VM migration: NaN sec
+
