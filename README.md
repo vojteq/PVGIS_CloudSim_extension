@@ -1,4 +1,5 @@
 # CloudSim extedned by data from PVGIS weather database
+## Created as project for Internet of Things classes on AGH University of Science and Technology, Faculty of Computer Science, Electronics and Telecommunications
 
 # CloudSim: A Framework For Modeling And Simulation Of Cloud Computing Infrastructures And Services #
 
