@@ -1,6 +1,30 @@
 # CloudSim extedned by data from PVGIS weather database
 ## Created as project for Internet of Things classes on AGH University of Science and Technology, Faculty of Computer Science, Electronics and Telecommunications
 
+## Functions
+- Downloading from the PVGIS database informations about insolation and the amount of renewable energy from photovoltaic farms during one day at hourly intervals
+- Calculating energy consumption by the computing center simulated with the Cloudsim simulator during one day at hourly intervals
+- Drawing charts of:
+ - Energy consumption by computing center
+ - Energy production by photovoltaic farm
+ - Amount of energy imported to the electrical network
+ - Amount of energy exported from the eletrical network
+ 
+## Charts
+### For 06.06.2010, mostly sunny day:
+##### Produced
+![alt text](https://lh6.googleusercontent.com/nnZ3BiURASvBdwvtAsbXOMGVZ6O-S_57LNfzMW6CpH9PjH8tygfSU841BleuU4RN3Hzhp-LDmWoLlrV2uA3VDSfK6q6P1cHUfx2pKbcY)
+
+##### Consumed
+![alt text](https://lh6.googleusercontent.com/rSOpbwgXd0EpM3UIUpPIgzw3kjUuJevD5yIHNDZJoOUVGP6TJ6JwvUTaUGphO4W3BBgHJX6u3VuxRNhCrwqZyPaoo7jF3fd59G3qr5az)
+
+##### Exported
+![alt text](https://lh6.googleusercontent.com/OBv6EwZRXPkobdQ4ikQsz0shtJrk-9JF0Ef9UnRqwh7aMjTAYSSEkdTM2pMgrwq-3NIkxjp90dXWRLzRxXhffIdbtDSCeXzvNyyUfPNX)
+
+##### Imported
+![alt text](https://lh4.googleusercontent.com/SFzu68mBWrx1vXmKBD-Np2plTiDwgtSEq8wdmS-I7oSR3GoBVi-nU55dysXt6UqJK96MXEkVgcXWmEZSnVri9lAZRXvX7rjyvt5RD54U)
+
+
 # CloudSim: A Framework For Modeling And Simulation Of Cloud Computing Infrastructures And Services #
 
 Cloud computing is the leading approach for delivering reliable, secure, fault-tolerant, sustainable, and scalable computational services. Hence timely, repeatable, and controllable methodologies for performance evaluation of new cloud applications and policies before their actual development are reqruied. Because utilization of real testbeds limits the experiments to the scale of the testbed and makes the reproduction of results an extremely difficult undertaking, simulation may be used.
