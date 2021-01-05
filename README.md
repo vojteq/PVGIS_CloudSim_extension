@@ -5,10 +5,10 @@
 - Downloading from the PVGIS database informations about insolation and the amount of renewable energy from photovoltaic farms during one day at hourly intervals
 - Calculating energy consumption by the computing center simulated with the Cloudsim simulator during one day at hourly intervals
 - Drawing charts of:
- - Energy consumption by computing center
- - Energy production by photovoltaic farm
- - Amount of energy imported to the electrical network
- - Amount of energy exported from the eletrical network
+  - Energy consumption by computing center
+  - Energy production by photovoltaic farm
+  - Amount of energy imported to the electrical network
+  - Amount of energy exported from the eletrical network
  
 ## Charts
 ### For 06.06.2010, mostly sunny day:
@@ -23,6 +23,12 @@
 
 ##### Imported
 ![alt text](https://lh4.googleusercontent.com/SFzu68mBWrx1vXmKBD-Np2plTiDwgtSEq8wdmS-I7oSR3GoBVi-nU55dysXt6UqJK96MXEkVgcXWmEZSnVri9lAZRXvX7rjyvt5RD54U)
+
+## Authors
+- Wojciech Ankus (https://github.com/vojteq)
+- Tomasz Kozyra (https://github.com/TKozyra)
+- Kacper Rosiak (https://github.com/RosKacper)
+- Michał Piotrowski (https://github.com/Gyanoo)
 
 
 # CloudSim: A Framework For Modeling And Simulation Of Cloud Computing Infrastructures And Services #
