@@ -25,10 +25,10 @@
 ![alt text](https://lh4.googleusercontent.com/SFzu68mBWrx1vXmKBD-Np2plTiDwgtSEq8wdmS-I7oSR3GoBVi-nU55dysXt6UqJK96MXEkVgcXWmEZSnVri9lAZRXvX7rjyvt5RD54U)
 
 ## Authors
-- Wojciech Ankus (https://github.com/vojteq)
-- Tomasz Kozyra (https://github.com/TKozyra)
-- Kacper Rosiak (https://github.com/RosKacper)
-- Michał Piotrowski (https://github.com/Gyanoo)
+- [Wojciech Ankus](https://github.com/vojteq)
+- [Tomasz Kozyra](https://github.com/TKozyra)
+- [Kacper Rosiak](https://github.com/RosKacper)
+- [Michał Piotrowski](https://github.com/Gyanoo)
 
 
 # CloudSim: A Framework For Modeling And Simulation Of Cloud Computing Infrastructures And Services #
