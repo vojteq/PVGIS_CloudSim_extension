@@ -13,16 +13,16 @@
 ## Charts
 ### For 06.06.2010, mostly sunny day:
 ##### Produced
-![alt text](https://lh6.googleusercontent.com/nnZ3BiURASvBdwvtAsbXOMGVZ6O-S_57LNfzMW6CpH9PjH8tygfSU841BleuU4RN3Hzhp-LDmWoLlrV2uA3VDSfK6q6P1cHUfx2pKbcY)
+![Produced](/../master/examplesOutput/TIRProduced.png?raw=true)
 
 ##### Consumed
-![alt text](https://lh6.googleusercontent.com/rSOpbwgXd0EpM3UIUpPIgzw3kjUuJevD5yIHNDZJoOUVGP6TJ6JwvUTaUGphO4W3BBgHJX6u3VuxRNhCrwqZyPaoo7jF3fd59G3qr5az)
+![Consumed](/../master/examplesOutput/TIRConsumed.png?raw=true)
 
 ##### Exported
-![alt text](https://lh6.googleusercontent.com/OBv6EwZRXPkobdQ4ikQsz0shtJrk-9JF0Ef9UnRqwh7aMjTAYSSEkdTM2pMgrwq-3NIkxjp90dXWRLzRxXhffIdbtDSCeXzvNyyUfPNX)
+![Exported](/../master/examplesOutput/TIRExported.png?raw=true)
 
 ##### Imported
-![alt text](https://lh4.googleusercontent.com/SFzu68mBWrx1vXmKBD-Np2plTiDwgtSEq8wdmS-I7oSR3GoBVi-nU55dysXt6UqJK96MXEkVgcXWmEZSnVri9lAZRXvX7rjyvt5RD54U)
+![Imported](/../master/examplesOutput/TIRImported.png?raw=true)
 
 ## Authors
 - [Wojciech Ankus](https://github.com/vojteq)
