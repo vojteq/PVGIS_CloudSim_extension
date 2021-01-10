@@ -7,11 +7,17 @@
 - Drawing charts of:
   - Energy consumption by computing center
   - Energy production by photovoltaic farm
-  - Amount of energy imported to the electrical network
-  - Amount of energy exported from the eletrical network
+  - Amount of energy imported from the electrical network
+  - Amount of energy exported to the eletrical network
  
-## Charts
-### For 06.06.2010, mostly sunny day:
+## Examples
+#### Day: 06.06.2010
+#### Weather conditions: mostly sunny
+#### Location: latitude = 50, longitude = 20
+#### Number of photovoltaic panels: 10
+#### Efficency: 19.30
+#### Datacenter: 1 machine, 2 virtual machines
+
 ##### Produced
 ![Produced](/../master/examplesOutput/TIRProduced.png?raw=true)
 
@@ -23,6 +29,27 @@
 
 ##### Imported
 ![Imported](/../master/examplesOutput/TIRImported.png?raw=true)
+
+
+#### Day: 4.09.2011
+#### Weather conditions: partly sunny
+#### Location: latitude = 50, longitude = 20
+#### Number of photovoltaic panels: 10
+#### Efficency: 19.30
+#### Datacenter: 1 machine, 2 virtual machines
+
+##### Produced
+![Produced](/../master/examplesOutput/TIRProduced2.png?raw=true)
+
+##### Consumed
+![Consumed](/../master/examplesOutput/TIRConsumed2.png?raw=true)
+
+##### Exported
+![Exported](/../master/examplesOutput/TIRExported2.png?raw=true)
+
+##### Imported
+![Imported](/../master/examplesOutput/TIRImported2.png?raw=true)
+
 
 ## Authors
 - [Wojciech Ankus](https://github.com/vojteq)
