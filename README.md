@@ -1,4 +1,4 @@
-# CloudSim extedned by data from PVGIS weather database
+# CloudSim extended by data from PVGIS weather database
 ## Created as project for Internet of Things classes on AGH University of Science and Technology, Faculty of Computer Science, Electronics and Telecommunications
 
 ## Functions
@@ -57,6 +57,7 @@
 - [Kacper Rosiak](https://github.com/RosKacper)
 - [Michał Piotrowski](https://github.com/Gyanoo)
 
+---
 
 # CloudSim: A Framework For Modeling And Simulation Of Cloud Computing Infrastructures And Services #
 
