@@ -1,7 +1,7 @@
 # CloudSim extended by data from PVGIS weather database
 ## Created as project for Internet of Things classes on AGH University of Science and Technology, Faculty of Computer Science, Electronics and Telecommunications
 
-Our code is in directory: 
+Code created/modified by us can be found in directory:<br />
 [PVGIS_CloudSim_extension/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics/](https://github.com/vojteq/PVGIS_CloudSim_extension/tree/master/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics)
  
 
