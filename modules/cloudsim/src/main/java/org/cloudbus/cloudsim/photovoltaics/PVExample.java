@@ -12,8 +12,8 @@ import java.io.IOException;
 public class PVExample {
     public static void main(String[] args) {
         PVFarm pvFarm = new PVFarm(10.0f, 10, 50.0f, 20.0f,  19.30f, 0.3f);
-//        double[] producedPower = pvFarm.calculateSunPower("20150919");
-        double[] producedPower = pvFarm.calculateSunPower("20110914");
+        double[] producedPower = pvFarm.calculateSunPower("20150919");
+//        double[] producedPower = pvFarm.calculateSunPower("20110914");
         if (producedPower == null) {
             System.out.println("error");
             return;

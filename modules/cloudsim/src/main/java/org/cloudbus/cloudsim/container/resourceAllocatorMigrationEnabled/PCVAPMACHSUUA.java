@@ -14,11 +14,11 @@ import java.util.*;
  */
 
 //original name: PowerContainerVmAllocationPolicyMigrationAbstractContainerHostSelectionUnderUtilizedAdded
-public abstract class someLongName extends PowerContainerVmAllocationPolicyMigrationAbstractContainerHostSelection {
+public abstract class PCVAPMACHSUUA extends PowerContainerVmAllocationPolicyMigrationAbstractContainerHostSelection {
 
     private double underUtilizationThr;
 
-    public someLongName(
+    public PCVAPMACHSUUA(
             List<? extends ContainerHost> hostList, PowerContainerVmSelectionPolicy vmSelectionPolicy,
             PowerContainerSelectionPolicy containerSelectionPolicy, HostSelectionPolicy hostSelectionPolicy,
             double underUtilizationThr,

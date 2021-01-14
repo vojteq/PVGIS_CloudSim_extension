@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * Created by sareh on 18/08/15.
  */
-public class PowerContainerVmAllocationPolicyMigrationStaticThresholdMCUnderUtilized extends someLongName {
+public class PowerContainerVmAllocationPolicyMigrationStaticThresholdMCUnderUtilized extends PCVAPMACHSUUA {
 
 
     /**
