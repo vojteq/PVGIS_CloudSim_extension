@@ -1,10 +1,6 @@
 # CloudSim extended by data from PVGIS weather database
 ## Created as project for Internet of Things classes on AGH University of Science and Technology, Faculty of Computer Science, Electronics and Telecommunications
 
-Code created/modified by us can be found in directory:<br />
-[PVGIS_CloudSim_extension/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics/](https://github.com/vojteq/PVGIS_CloudSim_extension/tree/master/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics)
- 
-
 ## Functions
 - Downloading from the PVGIS database informations about insolation and the amount of renewable energy from photovoltaic farms during one day at hourly intervals
 - Calculating energy consumption by the computing center simulated with the Cloudsim simulator during one day at hourly intervals
@@ -13,6 +9,11 @@ Code created/modified by us can be found in directory:<br />
   - Energy production by photovoltaic farm
   - Amount of energy imported from the electrical network
   - Amount of energy exported to the eletrical network
+
+
+#####Code created/modified by us can be found in directory:<br />
+[PVGIS_CloudSim_extension/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics/](https://github.com/vojteq/PVGIS_CloudSim_extension/tree/master/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics)
+  
  
 ## Examples
 #### Day: 06.06.2010
