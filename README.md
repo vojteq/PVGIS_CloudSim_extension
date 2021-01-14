@@ -1,5 +1,9 @@
-# CloudSim extedned by data from PVGIS weather database
+# CloudSim extended by data from PVGIS weather database
 ## Created as project for Internet of Things classes on AGH University of Science and Technology, Faculty of Computer Science, Electronics and Telecommunications
+
+Code created/modified by us can be found in directory:<br />
+[PVGIS_CloudSim_extension/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics/](https://github.com/vojteq/PVGIS_CloudSim_extension/tree/master/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics)
+ 
 
 ## Functions
 - Downloading from the PVGIS database informations about insolation and the amount of renewable energy from photovoltaic farms during one day at hourly intervals
@@ -7,22 +11,49 @@
 - Drawing charts of:
   - Energy consumption by computing center
   - Energy production by photovoltaic farm
-  - Amount of energy imported to the electrical network
-  - Amount of energy exported from the eletrical network
+  - Amount of energy imported from the electrical network
+  - Amount of energy exported to the eletrical network
  
-## Charts
-### For 06.06.2010, mostly sunny day:
+## Examples
+#### Day: 06.06.2010
+#### Weather conditions: mostly sunny
+#### Location: latitude = 50, longitude = 20
+#### Number of photovoltaic panels: 10
+#### Efficency: 19.30
+#### Datacenter: 1 machine, 2 virtual machines
+
 ##### Produced
-![alt text](https://lh6.googleusercontent.com/nnZ3BiURASvBdwvtAsbXOMGVZ6O-S_57LNfzMW6CpH9PjH8tygfSU841BleuU4RN3Hzhp-LDmWoLlrV2uA3VDSfK6q6P1cHUfx2pKbcY)
+![Produced](/../master/examplesOutput/TIRProduced.png?raw=true)
 
 ##### Consumed
-![alt text](https://lh6.googleusercontent.com/rSOpbwgXd0EpM3UIUpPIgzw3kjUuJevD5yIHNDZJoOUVGP6TJ6JwvUTaUGphO4W3BBgHJX6u3VuxRNhCrwqZyPaoo7jF3fd59G3qr5az)
+![Consumed](/../master/examplesOutput/TIRConsumed.png?raw=true)
 
 ##### Exported
-![alt text](https://lh6.googleusercontent.com/OBv6EwZRXPkobdQ4ikQsz0shtJrk-9JF0Ef9UnRqwh7aMjTAYSSEkdTM2pMgrwq-3NIkxjp90dXWRLzRxXhffIdbtDSCeXzvNyyUfPNX)
+![Exported](/../master/examplesOutput/TIRExported.png?raw=true)
 
 ##### Imported
-![alt text](https://lh4.googleusercontent.com/SFzu68mBWrx1vXmKBD-Np2plTiDwgtSEq8wdmS-I7oSR3GoBVi-nU55dysXt6UqJK96MXEkVgcXWmEZSnVri9lAZRXvX7rjyvt5RD54U)
+![Imported](/../master/examplesOutput/TIRImported.png?raw=true)
+
+
+#### Day: 4.09.2011
+#### Weather conditions: partly sunny
+#### Location: latitude = 50, longitude = 20
+#### Number of photovoltaic panels: 10
+#### Efficency: 19.30
+#### Datacenter: 1 machine, 2 virtual machines
+
+##### Produced
+![Produced](/../master/examplesOutput/TIRProduced2.png?raw=true)
+
+##### Consumed
+![Consumed](/../master/examplesOutput/TIRConsumed2.png?raw=true)
+
+##### Exported
+![Exported](/../master/examplesOutput/TIRExported2.png?raw=true)
+
+##### Imported
+![Imported](/../master/examplesOutput/TIRImported2.png?raw=true)
+
 
 ## Authors
 - [Wojciech Ankus](https://github.com/vojteq)
@@ -30,6 +61,7 @@
 - [Kacper Rosiak](https://github.com/RosKacper)
 - [Michał Piotrowski](https://github.com/Gyanoo)
 
+---
 
 # CloudSim: A Framework For Modeling And Simulation Of Cloud Computing Infrastructures And Services #
 
