@@ -15,7 +15,7 @@
 [PVGIS_CloudSim_extension/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics/](https://github.com/vojteq/PVGIS_CloudSim_extension/tree/master/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics)
 
 
-##### Example of usage can be found in directory:<br />
+##### Example of usage can be found in:<br />
 [PVGIS_CloudSim_extension/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/PVExample.java](https://github.com/vojteq/PVGIS_CloudSim_extension/blob/master/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/PVExample.java)
  
 ## Examples
