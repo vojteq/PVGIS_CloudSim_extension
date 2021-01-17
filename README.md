@@ -17,6 +17,8 @@
 
 ##### Example of usage can be found here:<br />
 [PVGIS_CloudSim_extension/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/PVExample.java](https://github.com/vojteq/PVGIS_CloudSim_extension/blob/master/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/PVExample.java)
+
+![program parameters](/../master/program_parameters.png?raw=true)
  
 ## Examples
 #### Day: 06.06.2010
