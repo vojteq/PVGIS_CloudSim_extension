@@ -19,7 +19,7 @@
 [PVGIS_CloudSim_extension/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/PVExample.java](https://github.com/vojteq/PVGIS_CloudSim_extension/blob/master/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/PVExample.java)
 
 Parameters of photovoltaics farm can be changed in it's constructor. <br />
-Date of measurement is parameter of calculateSunPower() method of PVFarm class. <br />
+Date of measurement is the parameter of calculateSunPower() method of PVFarm class. <br />
 ![program parameters](/../master/program_parameters.png?raw=true) <br />
 Number of virtual machines and hosts for simulated center is placed in [RandomConstants.java](https://github.com/vojteq/PVGIS_CloudSim_extension/blob/master/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics/RandomConstants.java). <br />
 In [Constants.java](https://github.com/vojteq/PVGIS_CloudSim_extension/blob/master/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics/Constants.java) you can modify details of virtual machines and hosts. <br />
