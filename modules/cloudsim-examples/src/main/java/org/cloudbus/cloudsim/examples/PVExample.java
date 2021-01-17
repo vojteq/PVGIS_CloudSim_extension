@@ -1,5 +1,8 @@
-package org.cloudbus.cloudsim.photovoltaics;
+package org.cloudbus.cloudsim.examples;
 
+import org.cloudbus.cloudsim.photovoltaics.PVChart;
+import org.cloudbus.cloudsim.photovoltaics.PVFarm;
+import org.cloudbus.cloudsim.photovoltaics.RandomRunner;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -11,7 +14,9 @@ import java.io.IOException;
 
 public class PVExample {
     public static void main(String[] args) {
+//        creating photovoltaic farm with parameters: angle, number of panels, latitude, longitude, panel efficiency, peak power
         PVFarm pvFarm = new PVFarm(10.0f, 10, 50.0f, 20.0f,  19.30f, 0.3f);
+//        calculating produced energy for date provided as a parameter using pattern: YearMonthDay
         double[] producedPower = pvFarm.calculateSunPower("20150919");
 //        double[] producedPower = pvFarm.calculateSunPower("20110914");
         if (producedPower == null) {
@@ -28,6 +33,7 @@ public class PVExample {
         String vmSelectionPolicy = "";
         String parameter = "";
 
+//        RandomRunner simulates energy consumption for power center and writes result to results.json
         new RandomRunner(
                 enableOutput,
                 outputToFile,
@@ -38,8 +44,10 @@ public class PVExample {
                 vmSelectionPolicy,
                 parameter);
 
+//        get energy consumption data from results.json
         double[] consumedPower = getData("results.json");
 
+//        calculating exported and imported energy
         double[] exported = new double[consumedPower.length];
         double[] imported = new double[consumedPower.length];
         for (int i = 0; i < exported.length; i++) {
@@ -54,6 +62,7 @@ public class PVExample {
             }
         }
 
+//        create charts
         EventQueue.invokeLater(() -> {
             PVChart producedPvChart = new PVChart(producedPower, "produced", Color.BLUE);
             producedPvChart.setVisible(true);
