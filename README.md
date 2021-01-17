@@ -11,9 +11,12 @@
   - Amount of energy exported to the eletrical network
 
 
-#####Code created/modified by us can be found in directory:<br />
+##### Code created/modified by us can be found in directory:<br />
 [PVGIS_CloudSim_extension/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics/](https://github.com/vojteq/PVGIS_CloudSim_extension/tree/master/modules/cloudsim/src/main/java/org/cloudbus/cloudsim/photovoltaics)
-  
+
+
+##### Example of usage can be found in directory:<br />
+[PVGIS_CloudSim_extension/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/PVExample.java](https://github.com/vojteq/PVGIS_CloudSim_extension/blob/master/modules/cloudsim-examples/src/main/java/org/cloudbus/cloudsim/examples/PVExample.java)
  
 ## Examples
 #### Day: 06.06.2010
